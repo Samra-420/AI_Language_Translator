@@ -57,7 +57,7 @@ no API key and supports 30+ languages.
 - Arabic
 - German
 - Chinese
-- And many more...
+
 
 ---
 
