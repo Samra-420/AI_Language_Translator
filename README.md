@@ -94,5 +94,8 @@ no API key and supports 30+ languages.
 - **Course:** Visual Programming Lab
 
 ---
+## 📄 Reports
 
+- 📘 [Theory Report](Samra_09_VP_Theory_assign1.pdf)
+- 🔬 [Lab Report](Samra_09_VP_Lab_Language_Translator.pdf)
 
